@@ -42,9 +42,12 @@ A. Experiment Result
 
 The  formula used  to measure  how  similar the  movies are based  on  their  similarities  of  different  properties. Mathematically,  it  shows  the  cosine  of  the  angle  of  two vectors  projected  in a  multidimensional space.  The cosine similarity is very beneficial since it helps in finding similar objects.
 ![image](https://github.com/Urmila2003/Movies-mode-movie-recommenatin-system/assets/109129599/2b1812b3-a285-41ff-b595-ae5172c5fd3d)
-Fig: This is the Cosine similarity formula which is used for the recommendation of movies 
+
+# Fig: This is the Cosine similarity formula which is used for the recommendation of movies 
+
 ![image](https://github.com/Urmila2003/Movies-mode-movie-recommenatin-system/assets/109129599/25ccac4b-ad31-4260-8534-c1bb0d9c7648)
-Fig: Cosine similarity
+
+# Fig: Cosine similarity
 # References
 [1] https://www.datacamp.com/community/tutorials/recommender-systems-python — tutorial for the basics involving data cleaning and using Count Vectorizers and Cosine Similarity for recommending movies (our chatbot builds on these ideas)
 
