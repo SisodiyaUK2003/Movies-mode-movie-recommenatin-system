@@ -17,7 +17,15 @@ The model automatically suggests the third movie rather than the fourth, since i
 As the World Wide Web is expanding in an exponential rate, the size andthe complexity of the information are increasing along with it. The Web nowcontains a massive amount of information, most of it does not interest theuser, either as unwanted information (advertisements, spam etc.) or ascontent irrelevant to his interests. However, every user has unique andpeculiar interests, which might correlate with a small percentage of the Web'scontent.  Therefore, it has become even more difficult and time consuming forthe users to find information that they are interested it. To help users findthe information that is in accordance with their interests the Web can bepersonalized, using recommender systems.
 Recommendation systems are a special type of information filteringsystems. They are software applications that aim to support users in theirdecision making while interacting with a vast amount of information. Theyrecommend items of interest to the users based on preferences they haveexpressed, either explicitly or implicitly. The continuously expanding volumeand increasing complexity of information on the Web has therefore made suchsystems essential tools for users in a variety of applications , usuallyincluding information seeking or e-commerce activities. Recommendationsystems help users overcome the information overload problem by exposingthem to the most interesting items, and by offering novelty, insight, andrelevance. Recommendation technology is hence an important part of theinformation seeking problem that has emerged along with the World WideWeb. Major e-commerce sites such as Amazon is using recommendationtechnology in a number of different ways. Many adopters are on their way andenterprises are competing with each other in order to find the right andefficient way to use this technology, thus providing a more efficient service to their customers.
 
+# Cosine similarity
 
+ Cosine  similarity among  two  objects measures  the  angle of cosine between  the two objects.  It compares two  documents on  a  normalized  scale.  It  can  be  done  by  finding  the  dot product between the two identities.
+ https://tse4.mm.bing.net/th?id=OIP.bCBMay0CqYYCKubEwqgx-gHaC6&pid=Api&P=0&h=180
+ As the above diagram shows, the angle between v1 and v2 is. Lesser  the angle  between the  two vectors  more is the similarity.  It  means  if the  angle  between  two  vectors  is small,  they  are  almost alike  each  other  and  if  the angle between the two vectors is large then the vectors are very different from each other
+
+# Importance of Recommendation Systems
+
+Netflix: According to a recent study by McKinsey, Netflix uses personalized recommendations, and it is responsible for 80 percent of the content streamed. This has allowed Netflix to earn 1 billion dollars in a single year. Netflix doesn’t spend much on marketing but on recommendations to improve customer retention.
 # Data source
 
 top10K-TMDB-movies.csv is used as dataset for this project as it contains upto 10k movies. It contains the language ,overview and vote count of different movies.
