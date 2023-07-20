@@ -32,6 +32,19 @@ Netflix: According to a recent study by McKinsey, Netflix uses personalized reco
 # Data source
 
 top10K-TMDB-movies.csv is used as dataset for this project as it contains upto 10k movies. It contains the language ,overview and vote count of different movies.
+
+# Result and Discussion
+
+In the deep learning framework recommendation system, we have used  Cosine Similarity  and Content-based filtering  to predict  our result  and recommend  a  movie  to  the user  by running  the  code  in  python  using  NumPy  and  panda libraries.
+In the deep learning framework recommendation system, we have used  Cosine Similarity  and Content-based filtering  to predict  our result  and recommend  a  movie  to  the user  by running  the  code  in  python  using  NumPy  and  panda libraries.
+
+A. Experiment Result 
+
+The  formula used  to measure  how  similar the  movies are based  on  their  similarities  of  different  properties. Mathematically,  it  shows  the  cosine  of  the  angle  of  two vectors  projected  in a  multidimensional space.  The cosine similarity is very beneficial since it helps in finding similar objects.
+![image](https://github.com/Urmila2003/Movies-mode-movie-recommenatin-system/assets/109129599/2b1812b3-a285-41ff-b595-ae5172c5fd3d)
+Fig: This is the Cosine similarity formula which is used for the recommendation of movies 
+![image](https://github.com/Urmila2003/Movies-mode-movie-recommenatin-system/assets/109129599/25ccac4b-ad31-4260-8534-c1bb0d9c7648)
+Fig: Cosine similarity
 # References
 [1] https://www.datacamp.com/community/tutorials/recommender-systems-python — tutorial for the basics involving data cleaning and using Count Vectorizers and Cosine Similarity for recommending movies (our chatbot builds on these ideas)
 
