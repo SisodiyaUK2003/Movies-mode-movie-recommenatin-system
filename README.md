@@ -12,6 +12,6 @@ Automatic recommendations (prediction of relevant items) is a widespread applica
 ![image](https://github.com/Urmila2003/Moviesmode-movie-recommenatin-system/assets/109129599/edbf66ae-27da-4426-9896-d3436567317a)
 The model automatically suggests the third movie rather than the fourth, since it is more similar to the first two. This similarity can be calculated based on a number of features like the actors and actresses in the movie, the director, the genre, the duration of the film, etc.
 
-#Data source
+# Data source
 
 top10K-TMDB-movies.csv is used as dataset for this project as it contains upto 10k movies. It contains the language ,overview and vote count of different movies.
