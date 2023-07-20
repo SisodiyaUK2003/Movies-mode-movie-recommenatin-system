@@ -23,4 +23,5 @@ Recommendation systems are a special type of information filteringsystems. They 
 top10K-TMDB-movies.csv is used as dataset for this project as it contains upto 10k movies. It contains the language ,overview and vote count of different movies.
 # References
 [1] https://www.datacamp.com/community/tutorials/recommender-systems-python — tutorial for the basics involving data cleaning and using Count Vectorizers and Cosine Similarity for recommending movies (our chatbot builds on these ideas)
-[2] https://r.search.yahoo.com/_ylt=AwrgLEeLS7lkPiUJoSFXNyoA;_ylu=Y29sbwNncTEEcG9zAzEEdnRpZANDQVEyNTUyM0NPXzEEc2VjA3Ny/RV=2/RE=1689893899/RO=10/RU=https%3a%2f%2fwww.geeksforgeeks.org%2fpython-implementation-of-movie-recommender-system%2f/RK=2/RS=tE8MbsZjJWcvCWeYgHBW3Crw1Rc- check this one out to have a better idea of what content based filtering is, and about how to implement it.
+
+[2]https://r.search.yahoo.com/_ylt=AwrgLEeLS7lkPiUJoSFXNyoA;_ylu=Y29sbwNncTEEcG9zAzEEdnRpZANDQVEyNTUyM0NPXzEEc2VjA3Ny/RV=2/RE=1689893899/RO=10/RU=https%3a%2f%2fwww.geeksforgeeks.org%2fpython-implementation-of-movie-recommender-system%2f/RK=2/RS=tE8MbsZjJWcvCWeYgHBW3Crw1Rc- check this one out to have a better idea of what content based filtering is, and about how to implement it.
