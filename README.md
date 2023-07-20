@@ -21,7 +21,9 @@ Recommendation systems are a special type of information filteringsystems. They 
 
  Cosine  similarity among  two  objects measures  the  angle of cosine between  the two objects.  It compares two  documents on  a  normalized  scale.  It  can  be  done  by  finding  the  dot product between the two identities.
  
-![image] (https://tse4.mm.bing.net/th?id=OIP.bCBMay0CqYYCKubEwqgx-gHaC6&pid=Api&P=0&h=180)
+![image](https://github.com/Urmila2003/Movies-mode-movie-recommenatin-system/assets/109129599/dc813520-a97b-4e19-bd98-a31b8cf1a58d)
+
+
  As the above diagram shows, the angle between v1 and v2 is. Lesser  the angle  between the  two vectors  more is the similarity.  It  means  if the  angle  between  two  vectors  is small,  they  are  almost alike  each  other  and  if  the angle between the two vectors is large then the vectors are very different from each other
 
 # Importance of Recommendation Systems
